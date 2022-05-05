@@ -1,0 +1,21 @@
+.result-panel {
+  width: 100%;
+  min-height: 300px;
+  padding: 0 25px;
+}
+
+.title {
+  width: 100%;
+  min-height: 50px;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  background-color: #3498db;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+ul {
+  padding: 15px 25px;
+}
